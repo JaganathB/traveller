@@ -1,11 +1,9 @@
-JAGANATH B						
+JAGANATH B
 1/351-C, Sheshadri Nagar,
 Alagapuram,
 Salem - 636004
-Phone: 8056730982	
-( 0427-4051138
+Phone: 8056730982	 0427-4051138
 e-mail:jaganath.bv95@gmail.com
-
 
 CAREER OBJECTIVE
                
@@ -38,7 +36,7 @@ MINI PROJECT
 
 Title		: Hostel attendance management
 Environment	: HTML, CSS, javascript (Front End), MYSQL (Back end).
-Objective	: This software application will help admin to handle hostel details of students                successfully.                   
+Objective	: This software application will help admin to handle hostel details of students successfully.                   
 
 WORKSHOP
 
@@ -59,10 +57,3 @@ LANGUAGES      	  : Read	:	Tamil, English, Hindi
 
 HOBBIES
 •	Playing Cricket, Basketball, Listening to Music, Trekking.
-DECLARATION
-I, JAGANATH B, do hereby confirm that the information given above is true to the best of my knowledge.
- Place: Coimbatore 	(B.JAGANATH)
- Date:
-
-
-
