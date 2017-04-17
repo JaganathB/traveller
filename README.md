@@ -3,7 +3,7 @@ JAGANATH B
 Alagapuram,
 Salem - 636004
 Phone: 8056730982	 0427-4051138
-e-mail:jaganath.bv95@gmail.com
+ e-mail:jaganath.bv95@gmail.com
 
 CAREER OBJECTIVE
                
